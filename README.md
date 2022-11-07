@@ -4,5 +4,5 @@ README FOR 2208-fsa
 
 Contributors:
 
-Travis - favorite number is 3.
-an
+- Travis - favorite number is 3.
+- an
