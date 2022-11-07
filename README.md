@@ -4,6 +4,5 @@ README FOR 2208-fsa
 
 Contributors:
 
-Travis
-an
-typing after making 'an-branch'
+- Travis - favorite number is 3.
+- an - typing after making 'an-branch'
